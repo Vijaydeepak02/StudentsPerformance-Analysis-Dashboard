@@ -20,4 +20,4 @@ downloaded Students Performance dataset (A data set of 1,000 students
 performance according to groups and gender). 
 
 The link for my dataset source is: -
-https://www.kaggle.com/spscientist/students-performance-in-exam
+https://www.kaggle.com/spscientist/students-performance-in-exams
